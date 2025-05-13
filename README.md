@@ -3,6 +3,32 @@
 
 # SCUT-Repo-CCDGame
 
+
+## clone放置位置(在Clone 本仓库之前必须阅读！)
+
+在 安装Android Studio 的时候已经成功的 创建了如下项目结构：
+```
+D:\Android                  # 这里可以改为C盘或者其他盘都行
+├── Android Studio/         # Android Studio 程序安装目录
+├── AndroidStudioProjects/  # Android 项目文件目录
+├── GradleRepository/       # Gradle 本地依赖仓库
+└── SDK/                    # Android SDK 目录
+``` 
+clone的位置是在 `D:\Android\AndroidStudioProjects` 下。
+
+clone 后的目录结构应当是：
+```
+D:\Android
+├── ...                             # 省略的其他目录
+└── AndroidStudioProjects           # 项目总目录
+    ├── MyProject                   # 我创建的测试项目
+    │   ├── app
+    │   └── gradle
+    ├── SCUT-Assignment-CCDBysenior # "遗产"项目
+    │   └── SCUT-Assignment-CDD
+    └── SCUT-Repo-CCDGame           # 实际的Android Studio 项目
+        └── CCDGame
+```
 ## 仓库结构介绍
 
 根目录下是与项目有关的文档，视频，图片存储的地方。
