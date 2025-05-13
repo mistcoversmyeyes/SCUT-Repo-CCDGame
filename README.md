@@ -30,10 +30,13 @@ D:\Android
         └── CCDGame
 ```
 
-## 进行你的第一个提交之前必读
+## 进行你的第一个提交之前需要阅读的
+### 必读
 - [秒懂Git之配置(配置git默认编辑器为vscode或者notepad++)](https://blog.csdn.net/ShuSheng0007/article/details/115449596)：配置命令行git 操作的默认编辑器为 vscode 可以让你在撰写 commit message ，修改git config 文件的时候如虎添翼。
 - [Git Commit 之道：规范化 Commit Message 写作指南](https://blog.csdn.net/hzf0701/article/details/134367234):规范化commmit格式可以让团队成员之间的沟通更加顺畅。
-
+## 推荐
+- [Learning Git Branch](https://learngitbranching.js.org/)：一个交互式的学习github命令行操作的网站，强烈推荐。
+## 选读
 
 
 ## 仓库结构介绍
